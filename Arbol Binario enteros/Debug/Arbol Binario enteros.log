@@ -1,0 +1,4 @@
+﻿  Arbolbin.cpp
+C:\Users\aaron\Desktop\Estudio coursera\Arbol Binario enteros\Arbol Binario enteros\Arbolbin.cpp(36): warning C4715: 'Arbolbin::inserAux': no todas las rutas de acceso de control devuelven un valor
+C:\Users\aaron\Desktop\Estudio coursera\Arbol Binario enteros\Arbol Binario enteros\Arbolbin.cpp(76): warning C4715: 'Arbolbin::buscaAux': no todas las rutas de acceso de control devuelven un valor
+  Arbol Binario enteros.vcxproj -> C:\Users\aaron\Desktop\Estudio coursera\Arbol Binario enteros\Debug\Arbol Binario enteros.exe
